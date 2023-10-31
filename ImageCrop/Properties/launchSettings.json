@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageCrop": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Forguncy 9\\Website\\designerBin\\Forguncy.exe"
+    }
+  }
+}

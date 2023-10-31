@@ -1,0 +1,19 @@
+{
+  "assembly": [
+    "ImageCrop.dll"
+  ],
+  "css": [],
+  "javascript": [
+    "Resources/ImageCropCommand.js"
+  ],
+  "serverApiAssembly": [],
+  "image": "Resources/PluginLogo.png",
+  "description": "这是一个活字格插件",
+  "name": "图片裁剪",
+  "pluginType": "command",
+  "guid": "f641ad8f-85d6-4d85-9dc3-dcf07100f2ef",
+  "version": "1.0.0.0",
+  "dependenceVersion": "9.0.102.0",
+  "bundleJavaScript": true,
+  "bundleCSS": true
+}
